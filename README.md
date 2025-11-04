@@ -1,4 +1,4 @@
 # C-language-codes
 This my first Git Repository on C language codes.
 <br>
-Dev-Chirag Prajapati
+Dev-Chirag_Prajapati
